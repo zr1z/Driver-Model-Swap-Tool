@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "message": "App disabled, please try again later.",
   "version": "1.0"
 }
